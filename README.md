@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alokkhatri1
-- 👀 I’m interested in natural language processing and mental health studies.
-- 🌱 I’m currently doing my thesis in understanding mental health problems using NLP
+- 👀 I’m interested in health diagnostics and mental health.
+- 🌱 I’m currently doing my thesis in understanding mental health problems using Natural Language Processing.
 - 💞️ I’m looking to collaborate on health related projects
 - 📫 How to reach me : alok.khatri1@gmail.com
 
